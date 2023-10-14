@@ -1,0 +1,8 @@
+/rigg
+*.o
+*.so
+*.so.*
+*.out
+*.core
+*.plist
+*.d
